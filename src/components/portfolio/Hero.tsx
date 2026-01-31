@@ -58,20 +58,7 @@ const Hero = () => {
         >
           <Terminal className="w-5 h-5 text-primary" />
           <p className="text-xl md:text-2xl font-mono text-muted-foreground">
-            Junior Penetration Tester
-            <span className="text-primary animate-terminal-blink">_</span>
-          </p>
-        </motion.div>
-
-        <motion.div
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.4 }}
-          className="flex items-center justify-center gap-2 mb-8"
-        >
-          <Terminal className="w-5 h-5 text-primary" />
-           <p className="text-xl md:text-2xl font-mono text-muted-foreground">
-            Cyber Security Instructor
+            Junior Penetration Tester | Cyber Security Instructor
             <span className="text-primary animate-terminal-blink">_</span>
           </p>
         </motion.div>
