@@ -120,7 +120,8 @@ const Contact = () => {
                 </p>
                 <div className="pt-4 border-t border-border">
                   <p className="text-muted-foreground mb-4">
-                    Looking for a dedicated security professional? Looking for Cyber Security Instructor?
+                    Looking for a dedicated security professional?<br/>
+                    Looking for Cyber Security Instructor?<br/>
                     Let's connect and discuss how I can contribute to your team.
                   </p>
                   <a
